@@ -1,4 +1,4 @@
-object C_TryExample extends App {
+object C_TryExercise extends App {
 
   def numberStringList = List("1", "2", "three", "quatre", "5")
 

@@ -1,4 +1,4 @@
-import C_TryExample.numberStringList
+import C_TryExercise.numberStringList
 
 import scala.util.{Failure, Success, Try}
 
